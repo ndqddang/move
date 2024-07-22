@@ -33,3 +33,5 @@ function title() {
     k = j + 1
     document.getElementById("change").innerText = `${k}/${hinhanh.length}`
 }
+
+// a comment
